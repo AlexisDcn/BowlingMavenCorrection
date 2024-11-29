@@ -70,6 +70,7 @@ public class PartieMultiJoueursTest {
 	//	partie.enregistreLancer(3); 
 	//	assertEquals("Prochain tir : joueur Pierre, tour n° 2, boule n° 1", partie.enregistreLancer(7)); // Pierre joue à nouveau
 	//}
+	//
 
 	// Tests pour la méthode scorePour
 	@Test
